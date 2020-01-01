@@ -1,0 +1,8 @@
+baseURL = "https://themoralpanda.github.io/AnEmptyBoat/"
+languageCode = "en-us"
+title = "An Empty Boat 🛶"
+theme = "elephants"
+publishDir = "docs"
+staticDir = "static"
+[params]
+    sitename = "An Empty Boat 🛶"
