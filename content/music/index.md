@@ -1,10 +1,9 @@
 ---
 title: Music productions
-date: 2019-01-31T14:15:35+05:30z
+date: 2019-01-31T14:15:35+05:30
 tags: disable
 ---
-
-last updated: 3 Jan 2020
+---
 
 **Vivid Dreams**\
 \
@@ -69,3 +68,6 @@ Date: 29 Nov 2014
 
 {{< soundcloud src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179148013&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" >}}
 
+
+---
+last updated: 3 Jan 2020 
