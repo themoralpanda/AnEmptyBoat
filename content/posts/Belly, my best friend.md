@@ -1,6 +1,6 @@
 ---
-title: "Beauty of an empty stomach"
-date: 2020-01-03T14:15:35+05:30z
+title: "Belly, my best friend"
+date: 2020-01-03T14:15:35+05:30
 ---
 
 In the past few years, I paid a very close attention to my stomach and things I ate. Here are the points I discovered that was very helpful to myself. 
