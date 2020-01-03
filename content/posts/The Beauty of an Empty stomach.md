@@ -1,6 +1,6 @@
 ---
 title: "Beauty of an empty stomach"
-date: 2019-12-28T13:11:35+05:30
+date: 2020-01-03T14:15:35+05:30
 ---
 
 In the past few years, I paid a very close attention to my stomach and things I eat. Here are the points I discovered that was very helpful to myself. 
@@ -17,8 +17,3 @@ In the past few years, I paid a very close attention to my stomach and things I 
 * Not drinking water right after eating. And taking a minimum of 45 minutes to 1 hour before I drink water. And when I do, I dont drink small sips of water regularly. Rather, I drink close to 400ml of water and take a break of few hours before I drink my next big portion. **This I still donot understand and articulate the benifits that this is causing. But I can just feel it** 
 
 * My **listening ability** in the conversations with colleagues or in meetings at office become less effective if my stomach does not feel good either by eating too much or by improper bowel movements. 
-
-
- \
-  \
--Boat
