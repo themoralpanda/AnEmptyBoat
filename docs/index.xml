@@ -6,21 +6,10 @@
     <description>Recent content on An Empty Boat 🛶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 14:15:35 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 13:11:35 +0530</lastBuildDate>
     
 	<atom:link href="https://themoralpanda.github.io/AnEmptyBoat/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beauty of an empty stomach</title>
-      <link>https://themoralpanda.github.io/AnEmptyBoat/posts/the-beauty-of-an-empty-stomach/</link>
-      <pubDate>Fri, 03 Jan 2020 14:15:35 +0530</pubDate>
-      
-      <guid>https://themoralpanda.github.io/AnEmptyBoat/posts/the-beauty-of-an-empty-stomach/</guid>
-      <description>In the past few years, I paid a very close attention to my stomach and things I eat. Here are the points I discovered that was very helpful to myself.
-  The less, the size of the meal I have, the more I feel alert and ease after eating.
-  Eating two course meal everyday elevates my concentration at work. Especially having a brunch in the morning at around 11AM and dinner around 7PM, with a 3:30 to 4pm small snack break.</description>
-    </item>
     
     <item>
       <title>2020 and Beyond</title>
@@ -38,12 +27,23 @@ Let&#39;s bring it on!</description>
     </item>
     
     <item>
+      <title>Beauty of an empty stomach</title>
+      <link>https://themoralpanda.github.io/AnEmptyBoat/posts/the-beauty-of-an-empty-stomach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://themoralpanda.github.io/AnEmptyBoat/posts/the-beauty-of-an-empty-stomach/</guid>
+      <description>In the past few years, I paid a very close attention to my stomach and things I ate. Here are the points I discovered that was very helpful to myself.
+  The less, the size of the meal I have, the more I feel alert and at ease after eating.
+  Eating two course meal everyday elevates my concentration at work. Especially having a brunch in the morning at around 11AM and dinner around 7PM, with a 3:30 to 4pm small snack break.</description>
+    </item>
+    
+    <item>
       <title>Music productions</title>
       <link>https://themoralpanda.github.io/AnEmptyBoat/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://themoralpanda.github.io/AnEmptyBoat/music/</guid>
-      <description>Vivid Dreams
+      <description>last updated on: 3 Jan 2020 Vivid Dreams
 Date: 26 Dec 2019
    Nitron Nymph
 Date: 21 Dec 2019
@@ -57,8 +57,7 @@ Date: 23 Nov 2019
 Date: 29 Apr 2018
   Organ streak - Villain!
 Date: 03 Aug 2016
-  New Born
-Date: 12 Jul 2016</description>
+  New Born</description>
     </item>
     
   </channel>
