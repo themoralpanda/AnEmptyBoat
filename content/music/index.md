@@ -3,71 +3,95 @@ title: Music productions
 date: 2019-01-31T14:15:35+05:30
 tags: disable
 ---
+
+---
+
+**Silent Smile**\
+\
+Date: 28 Jan 2020
+
+{{< youtube "3RDIgmK77r4" >}}
+
+---
+
+**Only Love**\
+\
+Date: 20 Jan 2020
+
+{{< youtube "_mO5wd75FhU" >}}
+
 ---
 
 **Vivid Dreams**\
 \
-Date: 26 Dec 2019 
+Date: 26 Dec 2019
 
 {{< youtube "UQN2SkhvqRM" >}}
 
 ---
+
 **Nitron Nymph**\
 \
-Date: 21 Dec 2019 
+Date: 21 Dec 2019
 
 {{< youtube "iLHmWHnMWEg" >}}
 
 ---
+
 **On and Off**\
 \
-Date: 14 Dec 2019 
+Date: 14 Dec 2019
 
 {{< youtube "pLVn6msYmOM" >}}
 
 ---
+
 **Baby on the move**\
 \
-Date: 30 Nov 2019 
+Date: 30 Nov 2019
 
 {{< youtube "JxBHjzA53nA" >}}
 
 ---
+
 **Suchness!**\
 \
-Date: 23 Nov 2019  
+Date: 23 Nov 2019
 
 {{< youtube "IBgWcNj6GRc" >}}
 
 ---
+
 **Twinkle**\
 \
-Date: 29 Apr 2018  
+Date: 29 Apr 2018
 
 {{< soundcloud src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/436841865&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" >}}
 
 ---
+
 **Organ streak - Villain!**\
 \
-Date: 03 Aug 2016  
+Date: 03 Aug 2016
 
 {{< soundcloud src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276583331&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" >}}
 
 ---
+
 **New Born**\
 \
-Date: 12 Jul 2016 
+Date: 12 Jul 2016
 
 {{< youtube "wVA-izmIaGI" >}}
 
-
 ---
+
 **The Forgotton Love**\
 \
-Date: 29 Nov 2014  
+Date: 29 Nov 2014
 
 {{< soundcloud src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179148013&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" >}}
 
-
 ---
-last updated: 3 Jan 2020 
+
+last updated: 3 Jan 2020
