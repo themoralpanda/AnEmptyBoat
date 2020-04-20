@@ -6,6 +6,16 @@ tags: disable
 
 ---
 
+**The Corona Anthem! **\
+\
+Date: 19 Apr 2020
+
+{{< youtube "dUI9WPGCvl0" >}}
+
+---
+
+---
+
 **Silent Smile**\
 \
 Date: 28 Jan 2020
