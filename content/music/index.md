@@ -6,13 +6,11 @@ tags: disable
 
 ---
 
-**The Corona Anthem! **\
+**The Corona Anthem!**\
 \
 Date: 19 Apr 2020
 
 {{< youtube "dUI9WPGCvl0" >}}
-
----
 
 ---
 
