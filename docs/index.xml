@@ -6,10 +6,16 @@
     <description>Recent content on An Empty Boat 🛶</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 14:15:35 +0530</lastBuildDate>
-    
-	<atom:link href="https://themoralpanda.github.io/AnEmptyBoat/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 08 Jul 2020 13:23:25 +0530</lastBuildDate><atom:link href="https://themoralpanda.github.io/AnEmptyBoat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaces</title>
+      <link>https://themoralpanda.github.io/AnEmptyBoat/posts/spaces/</link>
+      <pubDate>Wed, 08 Jul 2020 13:23:25 +0530</pubDate>
+      
+      <guid>https://themoralpanda.github.io/AnEmptyBoat/posts/spaces/</guid>
+      <description>Spaces. They exist everywhere.
+ Between a sunset and sunrise. Between  </description>
+    </item>
     
     <item>
       <title>Belly, my best friend</title>
@@ -29,12 +35,12 @@
       
       <guid>https://themoralpanda.github.io/AnEmptyBoat/posts/2020-and-beyond/</guid>
       <description>Dear 2020
-I&#39;m looking forward to u with
+I&amp;rsquo;m looking forward to u with
   warm heart
   pleasant smile
   empty expectations.
   opening myself
-Let&#39;s bring it on!</description>
+Let&amp;rsquo;s bring it on!</description>
     </item>
     
     <item>
@@ -43,7 +49,9 @@ Let&#39;s bring it on!</description>
       <pubDate>Thu, 31 Jan 2019 14:15:35 +0530</pubDate>
       
       <guid>https://themoralpanda.github.io/AnEmptyBoat/music/</guid>
-      <description>வானவிலே! - Vaanavilae!
+      <description>வான்! - Vaan!
+Date: 28 Sept 2020
+   வானவிலே! - Vaanavilae!
 Date: 3 May 2020
    The Corona Anthem!
 Date: 19 Apr 2020
@@ -55,9 +63,7 @@ Date: 20 Jan 2020
 Date: 26 Dec 2019
    Nitron Nymph
 Date: 21 Dec 2019
-   On and Off
-Date: 14 Dec 2019
-   Baby on the move</description>
+   On and Off</description>
     </item>
     
   </channel>
